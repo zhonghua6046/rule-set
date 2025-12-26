@@ -1,0 +1,21 @@
+# Emby Rule Set
+# Type: DOMAIN-SUFFIX
+# Usage: RULE-SET → Emby
+
+DOMAIN-SUFFIX,aikan.la
+DOMAIN-SUFFIX,aikan.cloud
+DOMAIN-SUFFIX,staryuki.com
+DOMAIN-SUFFIX,785858.xyz
+DOMAIN-SUFFIX,fffwm.cn
+DOMAIN-SUFFIX,staryuki.me
+DOMAIN-SUFFIX,tufei.de
+DOMAIN-SUFFIX,hikeba.de
+DOMAIN-SUFFIX,v50.su
+DOMAIN-SUFFIX,shrekmedia.org
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,nubebelle.cn
+DOMAIN-SUFFIX,lilyemby.my
+DOMAIN-SUFFIX,hohai.eu.org
+DOMAIN-SUFFIX,emos.lol
+DOMAIN-SUFFIX,sakiko.de
+DOMAIN-SUFFIX,longemby.com
